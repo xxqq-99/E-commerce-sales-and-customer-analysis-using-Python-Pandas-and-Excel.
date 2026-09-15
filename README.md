@@ -261,6 +261,8 @@ Excel 分析及 Dashboard 文件，包括：
 
 ## 📊 Dashboard
 
+![电商销售分析 Dashboard](imagesdashboard.png)
+
 本项目最终使用 Excel 制作销售分析 Dashboard，主要展示：
 
 - 总销售额
